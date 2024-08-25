@@ -37,5 +37,25 @@ Chaos Theory
 
 
 
+(https://web.archive.org/web/20240000000000*/core.gen.tr)
 
+
+sage finite field doc:
+(https://doc.sagemath.org/html/en/reference/finite_rings/sage/rings/finite_rings/finite_field_constructor.html)
+
+(https://en.wikipedia.org/wiki/GF%282%29)
+
+Online sage math playground
+(https://sagecell.sagemath.org/)
+
+
+
+
+
+-----------------------------------
+
+## Homework & Researches
+
+Berlekamp–Massey algorithm
+- Is an algorithm that will find the shortest linear-feedback shift register (LFSR) for a given binary output sequence.
 
